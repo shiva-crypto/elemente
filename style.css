@@ -1,1 +1,30 @@
+span{
+    width:500px;
+    height:200px;
+    background: yellow;
+    display: inline;
 
+}
+
+div{
+display: inline;
+
+}
+
+img{
+    display:block ;
+}
+
+p{
+    outline:1px solid green ;
+    display:inline-block ;
+    margin:100px 0 ;
+}
+
+#a{
+    background: red;
+    font-size: 32px;
+    position: absolute;
+    left:0 ;
+    top: 0;
+}
